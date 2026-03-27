@@ -22,5 +22,5 @@ Score Kaggle (test réel) : 73.92 %
 - scikit-learn
 
 ##  Fichiers
-- `notebook.ipynb`: code complet du projet
+- `notebookbc31b02c14.ipynb`: code complet du projet
 - `submission.csv`: prédictions finales
